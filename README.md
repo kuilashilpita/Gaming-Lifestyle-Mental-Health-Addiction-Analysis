@@ -184,26 +184,6 @@ The dataset contains gaming lifestyle and psychological health information, incl
 
 ---
 
-# 📷 Dashboard Preview
-
-## 📄 Executive Overview
-
-![Dashboard Page 1](Page1.png)
-
----
-
-## 📄 Behavioral & Mental Health Analysis
-
-![Dashboard Page 2](Page2.png)
-
----
-
-## 📄 Lifestyle & Psychological Insights
-
-![Dashboard Page 3](Page3.png)
-
----
-
 # 📈 Business Recommendations
 
 - Promote balanced daily gaming habits to improve overall wellness.

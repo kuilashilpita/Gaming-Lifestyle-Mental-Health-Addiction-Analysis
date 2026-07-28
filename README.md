@@ -224,4 +224,19 @@ The dataset contains gaming lifestyle and psychological health information, incl
 
 ---
 
+# 📂 Repository Structure
+
+```
+Gaming-Lifestyle-Mental-Health-Addiction-Analysis/
+│
+├── Gaming Lifestyle, Mental Health & Addiction Analysis.pbix
+├── gaming_dataset.csv
+├── Page1.png
+├── Page2.png
+├── Page3.png
+└── README.md
+```
+
+---
+
 ## ⭐ If you found this project useful, feel free to explore the repository and share your feedback!
